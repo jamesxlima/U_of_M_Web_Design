@@ -11,3 +11,5 @@
 **Course 4** - [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign)
 
 **Course 5** - [Web Design for Everybody Capstone](https://www.coursera.org/learn/web-design-project)
+
+I completed and received the certificated in December 2022.
